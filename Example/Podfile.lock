@@ -1,0 +1,27 @@
+PODS:
+  - EWUtils (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - EWUtils (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  EWUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EWUtils: 8dae4c57f4b128c3cbcf4f6c16897b0152b06cac
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: f169ebf4eb025c8727050a18ea84ccc6e680e146
+
+COCOAPODS: 1.9.3
