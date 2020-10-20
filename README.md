@@ -22,7 +22,7 @@ pod 'EWUtils'
 
 ## Author
 
-zhenghongyi, zhenghongyi@100tal.com
+zhenghongyi, hongyiprogram@gmail.com
 
 ## License
 
