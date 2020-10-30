@@ -2,7 +2,6 @@ use_frameworks!
 
 target 'EWUtils_Example' do
   pod 'EWUtils', :path => '../'
-
   target 'EWUtils_Tests' do
     inherit! :search_paths
 
